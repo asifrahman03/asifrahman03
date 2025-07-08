@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student @ Virginia Tech
 --------------------------
 
-I am a junior CS major student at Virginia Tech. I am passionate in Java, Python, and JavaScript.
+I am a Senior CS major student at Virginia Tech. I am passionate in Java, Python, C, and JavaScript.
 
 * 🌍  I'm based in Virginia
 * ✉️  You can contact me at [asif.rahm4n@gmail.com](mailto:asif.rahm4n@gmail.com)
