@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Asif Rahman
 ===================================================================================================================================
 
-CS Student @ Virginia Tech
+Recent CS Graduate | Virginia Tech
 --------------------------
 
-I am a Senior CS major student at Virginia Tech. I am passionate in Java, Python, C, and JavaScript.
+I am a recent CS Graduate from Virginia Tech. I am passionate about Python, JavaScript, and Java.
 
 * 🌍  I'm based in Virginia
 * ✉️  You can contact me at [asif.rahm4n@gmail.com](mailto:asif.rahm4n@gmail.com)
